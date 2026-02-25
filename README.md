@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project uses machine learning techniques to predict the likelihood of heart disease based on patient medical attributes.
-
+Since also this project focusing the medical feilds we optimizating our goal to enhance the recall metric in this project to help the more the hospitals and the companies to identify most defected patiants to cure them without lossing them on misclassification.
 It demonstrates how data science can assist healthcare professionals in early diagnosis and risk assessment.
 
 ---
